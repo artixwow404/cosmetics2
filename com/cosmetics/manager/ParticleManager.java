@@ -22,7 +22,7 @@ public class ParticleManager {
         if (count <= 0) return;
 
         try {
-            if (color != null && (particle == Particle.REDSTONE || particle == Particle.DUST || particle == Particle.END_ROD || particle == Particle.ELECTRIC_SPARK)) {
+            if (color != null && (particle == Particle.DUST || particle == Particle.DUST || particle == Particle.END_ROD || particle == Particle.ELECTRIC_SPARK)) {
                 Particle.DustOptions dustOptions = new Particle.DustOptions(color, 1.0f);
                 location.getWorld().spawnParticle(particle, location, count, offsetX, offsetY, offsetZ, speed, dustOptions);
             } else {
