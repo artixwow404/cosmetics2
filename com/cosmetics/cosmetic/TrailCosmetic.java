@@ -1,5 +1,6 @@
 package com.cosmetics.cosmetic;
 
+import com.google.gson.JsonObject;
 import com.cosmetics.CosmeticsPlugin;
 import com.cosmetics.manager.ParticleManager;
 import org.bukkit.Color;
