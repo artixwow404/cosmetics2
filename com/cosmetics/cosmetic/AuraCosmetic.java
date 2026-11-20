@@ -1,5 +1,7 @@
 package com.cosmetics.cosmetic;
 
+import org.bukkit.Bukkit;
+import org.bukkit.Location;
 import com.cosmetics.CosmeticsPlugin;
 import com.cosmetics.manager.ParticleManager;
 import com.google.gson.JsonObject;
