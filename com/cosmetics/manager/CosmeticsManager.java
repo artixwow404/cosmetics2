@@ -1,5 +1,6 @@
 package com.cosmetics.manager;
 
+import org.bukkit.configuration.file.FileConfiguration;
 import com.cosmetics.CosmeticsPlugin;
 import com.cosmetics.cosmetic.Cosmetic;
 import com.cosmetics.cosmetic.CosmeticCategory;
