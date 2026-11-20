@@ -1,5 +1,7 @@
 package com.cosmetics.listener;
 
+import org.bukkit.Bukkit;
+import java.util.UUID;
 import com.cosmetics.CosmeticsPlugin;
 import com.cosmetics.cosmetic.CosmeticCategory;
 import com.cosmetics.cosmetic.KillSoundCosmetic;
