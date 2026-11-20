@@ -1,5 +1,6 @@
 package com.cosmetics.util;
 
+import java.util.Map;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.Player;
 
